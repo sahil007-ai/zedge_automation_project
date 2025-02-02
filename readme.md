@@ -10,15 +10,16 @@ steps to complete this project:
 3. save that image 
 4. upload it to git
 
+time taken: 1.30 min
+
 ****
 
 <b> version 2: </b>
 
 prototype 1 in a for loop which results in automating the wallpaper creation process 
 
-steps to complete this project:
+time taken : 1 min
 
-1. 
 ****
 
 <b> version 3: </b>
